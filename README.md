@@ -1,4 +1,6 @@
-Integrantes:
-Fabiola Montilla - Caracas
-Jose Serrano - Charallave
-Josephb R - Caracas
+| INTEGRANTES  | UBICACIÓN |
+| ------------- | ------------- |
+| José Serrano  | Charallave  |
+| Fabiola Montilla  | Caracas  |
+| Josephb R  | Caracas  |
+| Luis Barranco  | Naguanagua  |
